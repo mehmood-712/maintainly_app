@@ -1,0 +1,30 @@
+name: maintainly
+description: A local-first vehicle maintenance and small fleet management app.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.13.0 <4.0.0'
+  flutter: '>=3.47.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  flutter_riverpod: ^2.6.1
+  shared_preferences: ^2.3.3
+  drift: ^2.35.4
+  drift_flutter: ^0.3.1
+  intl: ^0.20.1
+  uuid: ^4.5.1
+  pdf: ^3.11.1
+  printing: ^5.13.4
+  file_picker: ^13.3.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
