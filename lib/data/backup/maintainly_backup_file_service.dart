@@ -88,8 +88,6 @@ class MaintainlyBackupFileService {
       fileName: fileName,
       bytes: bytes,
       mimeType: mimeType,
-      type: FileType.custom,
-      allowedExtensions: const ['json'],
     );
   }
 

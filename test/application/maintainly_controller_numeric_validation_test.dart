@@ -7,7 +7,7 @@ import 'package:maintainly/core/data/local_store.dart';
 import 'package:maintainly/data/models/expense.dart';
 import 'package:maintainly/data/models/maintenance_reminder.dart';
 import 'package:maintainly/data/models/service_record.dart';
-import 'package:maintainly/data/models/vehicle.dart';
+// import 'package:maintainly/data/models/vehicle.dart';
 import 'package:maintainly/data/repositories/maintainly_repository.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
