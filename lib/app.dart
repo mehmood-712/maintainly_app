@@ -23,7 +23,7 @@ class MaintainlyApp extends ConsumerWidget {
       return MaterialApp(theme: AppTheme.light(), home: const _LoadingScreen());
     }
     return MaterialApp(
-      title: 'Maintainly Step 8.4 Chatgpt',
+      title: 'Maintainly Step 8.4 Chatgpt GitHub.com',
       debugShowCheckedModeBanner: false,
       theme: AppTheme.light(),
       darkTheme: AppTheme.dark(),
